@@ -17,9 +17,6 @@
     <li><strong>File Handling</strong> - Ensures persistent data storage.</li>
 </ul>
 
-<h2>📸 Project Demo</h2>
-<p>🎥 <em>[Include screenshots or a video demo of your system here]</em></p>
-
 <h2>🚀 Getting Started</h2>
 <h3>Prerequisites</h3>
 <ul>
