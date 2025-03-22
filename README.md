@@ -29,7 +29,7 @@
 
 <h3>Installation</h3>
 <pre>
-    git clone https://github.com/yourusername/Hotel-Management-System.git
+    git clone https://github.com/RiddhiGope2002/Hotel_Mgmt_System/tree/main.git
     cd Hotel-Management-System
     g++ main.cpp -o hotel_management
     ./hotel_management
@@ -40,8 +40,3 @@
 <p>Enter customer details, book rooms, and generate bills.</p>
 <p>Data is stored persistently for future access.</p>
 
-<h2>🤝 Contributing</h2>
-<p>Feel free to fork the project, open issues, and submit pull requests.</p>
-
-<h2>📝 License</h2>
-<p>This project is licensed under the MIT License.</p>
